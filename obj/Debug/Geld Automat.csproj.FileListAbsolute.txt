@@ -1,0 +1,11 @@
+C:\Users\medin.krupic\source\repos\Geld Automat\Geld Automat\bin\Debug\Geld Automat.exe.config
+C:\Users\medin.krupic\source\repos\Geld Automat\Geld Automat\bin\Debug\Geld Automat.exe
+C:\Users\medin.krupic\source\repos\Geld Automat\Geld Automat\bin\Debug\Geld Automat.pdb
+C:\Users\medin.krupic\source\repos\Geld Automat\Geld Automat\obj\Debug\Geld_Automat.Form1.resources
+C:\Users\medin.krupic\source\repos\Geld Automat\Geld Automat\obj\Debug\Geld_Automat.Properties.Resources.resources
+C:\Users\medin.krupic\source\repos\Geld Automat\Geld Automat\obj\Debug\Geld Automat.csproj.GenerateResource.cache
+C:\Users\medin.krupic\source\repos\Geld Automat\Geld Automat\obj\Debug\Geld Automat.csproj.CoreCompileInputs.cache
+C:\Users\medin.krupic\source\repos\Geld Automat\Geld Automat\obj\Debug\Geld Automat.exe
+C:\Users\medin.krupic\source\repos\Geld Automat\Geld Automat\obj\Debug\Geld Automat.pdb
+C:\Users\medin.krupic\source\repos\Geld Automat\Geld Automat\obj\Debug\Geld Automat.csproj.AssemblyReference.cache
+C:\Users\medin.krupic\source\repos\Geld Automat\Geld Automat\obj\Debug\Geld Automat.csproj.SuggestedBindingRedirects.cache
